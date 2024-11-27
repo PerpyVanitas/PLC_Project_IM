@@ -60,7 +60,7 @@ Lorem Ipsum
 ## Gantt Chart
 <section id="gantt">
   <a href="">
-    <img src="" alt="Gantt Chart Image" />
+    <img src="" alt="" />
   </a>
 </section>
 
